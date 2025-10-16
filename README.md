@@ -79,7 +79,7 @@ This project is licensed under the MIT License - see the LICENSE
 
 Contact
 
-GitHub: QuantumKish16
+GitHub: amar-2hup
 
-Email: spuk2006@gmail.com
-   git clone https://github.com/your-username/product-catalog-filters.git
+Email: 
+   git clone https://github.com/amar-2hup/NM-IBM-PROJECT.git
