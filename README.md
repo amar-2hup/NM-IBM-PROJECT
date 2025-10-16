@@ -33,7 +33,7 @@ A web application/module for filtering products in a catalog based on various cr
 
 1. Clone the repository:
    ```bash
-          git clone https://github.com/QuantumKish16/NM-IBM-PROJECT
+   git clone https://github.com/QuantumKish16/NM-IBM-PROJECT
 2.Navigate into the project directory:
 
 >>>cd product-catalog-filters
